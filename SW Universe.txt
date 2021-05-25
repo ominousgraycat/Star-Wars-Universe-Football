@@ -115,7 +115,7 @@ PLAYER,CJT,CB,Kiadi Mundi,Sr,73,220,7,,
 PLAYER,CST,QB,Darth Vader,Fr,73,215,5,,
 PLAYER,TTS,QB,Boba Fett,So,73,215,6,,
 PLAYER,EST,QB,Ben Solo,Fr,73,215,5,,
-PLAYER,KWU,QB,Chewbacca Wookie,FR,73,215,5,,
+PLAYER,KWU,QB,Chewbacca Wookie,Fr,73,215,5,,
 PLAYER,GSU,QB,Jarjar Binks,So,73,215,3,,
 
 END_FILE,,,,,,,,,
